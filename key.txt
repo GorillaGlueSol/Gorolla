@@ -1,0 +1,2 @@
+7072742247:AAFjSdB4soVfyHTLfdu5YEgsvkwbF6zDoQ4
+return status in [ChatMember.MEMBER, ChatMember.ADMINISTRATOR, ChatMember.OWNER]
